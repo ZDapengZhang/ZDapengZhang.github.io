@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 浅</title>
+    <link>https://zdapengzhang.github.io/post/</link>
+    <description>Recent content in Posts on 浅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 20:20:01 +0900</lastBuildDate><atom:link href="https://zdapengzhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://zdapengzhang.github.io/post/blog/</link>
+      <pubDate>Sun, 21 Mar 2021 20:20:01 +0900</pubDate>
+      
+      <guid>https://zdapengzhang.github.io/post/blog/</guid>
+      <description>Markdown 简易语法 2021/03/21 使用- 建立列表, 而使用1. 建立有序列表 插入链接如理論化学 插入图片使用感叹号,方括号组,最后加上圆括号并在其中加入链接 引用使用&amp;gt; 文字的格式 Get busy living, or get busy dying. 在语句前后添加两个星号改为bol</description>
+    </item>
+    
+  </channel>
+</rss>
